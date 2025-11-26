@@ -1,7 +1,7 @@
 README – Control Square Task & ROS Message Task
 📌 Overview
 
-This repository contains two ROS packages developed for the CO3242 coursework:
+This repository contains two ROS packages developed for the Autumonous System using Turtlebot3 Burger:
 
 ControlSquareOdometry – A package that drives a differential-drive robot in a square using encoder-based odometry and simple motion control.
 
